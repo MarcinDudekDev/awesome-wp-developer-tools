@@ -257,6 +257,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [WP Media Metadata Fix](https://wordpress.org/plugins/wp-media-metadata-fix/) - Fixes the metadata of the images in the Media library.
 * [WP Migrate DB Anonymization](https://wordpress.org/plugins/wp-migrate-db-anonymization/) - An extension to WP Migrate DB and WP Migrate DB Pro that anonymizes user data.
 * [WP Monitor](https://wordpress.org/plugins/wp-monitor/) - Collects important data from site and displays it on the dashboard.
+* [WP Multitool](https://wpmultitool.com) - AI-powered WordPress performance and developer toolkit. Identifies slow database queries with AI analysis, manages bulk plugin/theme updates, exports/imports wp-config.php settings. Modular zero-bloat architecture.
 * [WP Notification Center](https://wordpress.org/plugins/wp-notification-center/) - Adds a notification center to WordPress, no more pages that are cluttered with notifications.
 * [WP Original Media Path](https://wordpress.org/plugins/wp-original-media-path/) - Change the location for the uploads folder for WordPress.
 * [WordPress-Gear](https://github.com/wecodemore/WordPress-Gear) - A bunch of gear for WP developers.
